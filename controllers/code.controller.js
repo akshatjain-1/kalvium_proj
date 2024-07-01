@@ -3,7 +3,7 @@ const { codeTransformer } = require('../transformers/code.transformer')
 const codeService = require('../services/code.service')
 const { isValidForExecute } = require('../validators/code.validator')
 
-const execute = async (req, res) => {
+const execute = async (e) => {
     try {
         const validatedData = await isValidForExecute(req.body)
 
