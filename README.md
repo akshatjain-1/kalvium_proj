@@ -1,3 +1,6 @@
+## I added the frontend in the folder named ""CODE-FRONTEND""
+## Given Dockerfile is not working on my system.
+
 # <img alt="Kalvium" src="https://kalvium.community/images/sidebar-2d-logo.svg" width="80"/> Kalvium
 
 ---
@@ -42,7 +45,7 @@
 
 
 ## About The Project : 
-Compilerd is a online code judge for evaluating code submissions passed to it. It compiles and executes code in several languages and returns the result and various other properties in the response. The judge supports several languages including C++, Python, C, JavaScript (Node.js) and Java. 
+Code Editor is a online code judge for evaluating code submissions passed to it. It compiles and executes code in several languages and returns the result and various other properties in the response. The judge supports several languages including C++, Python, C, JavaScript (Node.js) and Java. 
 This is a service that is build using nodejs and express in the backend.
 It is fully customizable and can be adjusted as per requirement. Also, it has been tried and tested on Google Cloud Run and it just works seamlessly.
 
